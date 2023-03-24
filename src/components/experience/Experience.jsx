@@ -54,51 +54,30 @@ const Experience = () => {
             </article>
           </div>
         </div>
-        <div className="experience__backend">
-          <h3>Backend Developer</h3>
+        <div className="experience__other">
+          <h3>Other Languages </h3>
           <div className="experience__content">
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
+            <articel className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
-               <h4>Node Js</h4>
-              <small className='text-light'>Just Start</small>
+              <h4>Java</h4>
+              <small>Intermediate <br /></small>
               </div>
-            </article>
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
+            </articel>
+            <articel className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>Php</h4>
-              <small className='text-light'>Just Start</small>
+              <h4>C/C++</h4>
+              <small>Experienced <br /></small>
               </div>
-            </article>
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
-          <div>
-              <h4>Mysql</h4>
-              <small className='text-light'>Just Start</small>
-              </div>
-            </article>  
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
+            </articel>
+            <articel className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>laravel</h4>
-              <small className='text-light'>Just Start</small>
+              <h4>Git</h4>
+              <small>Experienced</small>
               </div>
-            </article>
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-              <h4>Tailwind</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article> 
-            <article className='experience__details'>
-              < BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-              <h4>Bootstrap</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
+            </articel>
           </div>
         </div>
       </div>

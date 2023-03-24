@@ -19,14 +19,14 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icons'/>
               <h5>Experience</h5>
-              <small>Just start</small>
+             
         
              </article>
            
              <article className='about__card'>
               <VscFolderLibrary className='about__icons'/>
               <h5>Projects</h5>
-              <small>10+ completed</small>
+              
             </article>
            </div>
            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis esse necessitatibus dolorem sint aperiam et, 
